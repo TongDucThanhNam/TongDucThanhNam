@@ -1,97 +1,119 @@
 <h1 align="center">Hi, I'm Tong Duc Thanh Nam</h1>
 
 <h3 align="center">
-Flutter & Full-stack Developer | Mobile-first Products | Clean Architecture | API Integration
+AI Product Engineer building agentic workspaces, browser copilots, and AI-native productivity tools.
 </h3>
 
 <p align="center">
-  <a href="mailto:tongducthanhnam@gmail.com">Email</a> •
-  <a href="https://tongducthanhnam.id.vn">Portfolio</a> •
-  <a href="https://github.com/TongDucThanhNam">GitHub</a>
+  <a href="mailto:tongducthanhnam@gmail.com">Email</a> ·
+  <a href="https://eragear.app">Eragear</a> ·
+  <a href="https://tongducthanhnam.id.vn">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/tong-duc-thanh-nam">LinkedIn</a>
 </p>
 
 ---
 
 ## About Me
 
-I am a software developer from Vietnam focused on building practical, user-centered applications across mobile and web platforms.
+I build AI-native software products that combine full-stack engineering, agentic workflows, and practical user experience.
 
-My main strengths are:
+My current focus is **Eragear** — an AI workspace ecosystem for long-running conversations, artifacts, browser-assisted research, local knowledge workflows, and agent integrations.
 
-- Building mobile applications with **Flutter**, **Android**, **Kotlin**, and **Jetpack Compose**
-- Designing full-stack applications with **Next.js**, **Node.js**, **Express**, and databases
-- Integrating APIs, authentication, storage, and real-world business workflows
-- Writing maintainable code with clear architecture, reusable components, and scalable structure
+I care about:
 
-I enjoy turning product ideas into working applications with clean UI, reliable backend logic, and good developer experience.
-
----
-
-## Featured Projects
-
-| Project | Description | Tech Stack | Highlights |
-|---|---|---|---|
-| [Building Material Retail](https://github.com/TongDucThanhNam/building_material_retail) | Retail management system for building material businesses | Flutter / Backend / Database | Product catalog, order flow, business management features |
-| [Seller Keyboard](https://github.com/TongDucThanhNam/SellerKeyboard) | Productivity tool for sellers to type faster and manage selling workflows | Flutter / Android | Custom keyboard experience, seller-focused UX |
-| [Portfolio Website](https://tongducthanhnam.id.vn) | Personal portfolio showcasing my projects and technical background | Next.js / Tailwind CSS | Clean UI, responsive layout, project showcase |
+- Designing AI products that are actually useful in daily workflows
+- Building streaming chat systems, model routing, credit usage, and artifact experiences
+- Creating agentic interfaces across web apps, browser extensions, local tools, and knowledge systems
+- Shipping full-stack TypeScript products with Cloudflare, Hono, TanStack, Drizzle, Better Auth, and Bun
 
 ---
 
-## Tech Stack
+## Main Project: Eragear
 
-### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java" />
-</p>
+**Eragear** is an AI-native workspace for long-running conversations, in-context artifacts, research workflows, and agent-powered productivity.
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,spring,mongodb,mysql,sqlite,firebase" />
-</p>
-
-### Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
-</p>
+| Area | What I Built |
+|---|---|
+| AI Workspace | Agent-first chat experience with selectable models, tools, search, and thinking controls |
+| Streaming AI Backend | Hono-based AI API with model routing, streaming responses, usage tracking, and persistence |
+| Artifacts | Sidecar workspace for AI-generated documents and rich content |
+| Credits & Billing | Usage-based credit accounting and payment webhook architecture |
+| Browser Copilot | Extension that bridges browsing context into the AI workspace |
+| Knowledge Copilot | Obsidian assistant using deterministic graph-based context instead of only vector search |
+| Code Copilot | ACP-based coding assistant connecting browser UI with local AI agents |
 
 ---
 
-## Engineering Mindset
+## Featured Eragear Projects
 
-- Product-first thinking: I build software to solve real user and business problems
-- Clean architecture: separation of concerns, reusable modules, maintainable structure
-- UI/UX attention: responsive layouts, consistent components, smooth user flows
-- API integration: authentication, CRUD, file handling, database interaction
-- Continuous improvement: learning Flutter, Next.js, and Jetpack Compose deeply through real projects
-
----
-
-## Current Focus
-
-- Improving production-level Flutter application architecture
-- Building better full-stack systems with Next.js and backend APIs
-- Publishing polished case studies for my main projects
-- Strengthening testing, CI/CD, and deployment workflow
+| Project | Description | Stack |
+|---|---|---|
+| **Eragear Core** | AI-native workspace with chat, artifacts, credits, billing, auth, and Cloudflare deployment | TanStack Start, React, Hono, Cloudflare Workers, D1, Drizzle, Better Auth, Bun |
+| **Eragear Web Extension** | Browser copilot for human-in-the-loop research and verified web context collection | WXT, React, TypeScript, Tailwind CSS |
+| **Eragear Code Copilot** | Web-based AI coding assistant using Agent Client Protocol to connect UI with local coding agents | React, Hono, tRPC, ACP, Zustand |
+| **Eragear Obsidian Copilot** | Local-first Obsidian assistant using graph-based context retrieval | Obsidian API, TypeScript, Graphology, MiniSearch, Web Workers |
+| **AI Chatbot Tree** | Branching conversation UI with conversation-tree SSOT and projection-based context control | Next.js, AI SDK, Zustand, D3, React Flow |
 
 ---
 
-## GitHub Overview
+## Technical Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TongDucThanhNam&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TongDucThanhNam&layout=compact&theme=transparent" height="160" />
-</p>
+### AI Product Engineering
+
+- Streaming AI chat interfaces
+- Multi-model routing and provider abstraction
+- Tool-enabled agents and selected tool control
+- Long-context conversation handling
+- Artifact generation and sidecar workspaces
+- Usage tracking, credits, billing, and rate limits
+
+### Full-stack TypeScript
+
+- React / TanStack Start / Next.js
+- Hono / Cloudflare Workers
+- Drizzle ORM / Cloudflare D1 / SQLite
+- Better Auth
+- Bun / Turborepo / Biome
+
+### Agentic Interfaces
+
+- Browser extension copilots
+- Obsidian/local-first knowledge tools
+- ACP/MCP integrations
+- AI coding assistants
+- Human-in-the-loop research flows
+
+---
+
+## Selected Engineering Highlights
+
+- Built a Cloudflare-native AI workspace architecture with separate web, server, auth, database, and AI packages.
+- Implemented streaming chat flows with usage metadata, message persistence, and credit deduction.
+- Designed an agent selection system with persisted model, tool, and thinking-budget state.
+- Built browser-extension workflows that let users verify search results before sending context to AI.
+- Explored deterministic knowledge retrieval using graph algorithms such as PageRank and spreading activation.
+- Built conversation-tree UX experiments for branching, regenerating, and composing AI context.
+
+---
+
+## Current Direction
+
+I am currently focused on:
+
+- Turning Eragear into a polished AI workspace product
+- Improving agentic UX for research, coding, and knowledge work
+- Building reliable AI infrastructure around streaming, billing, persistence, and tool use
+- Creating public case studies from private product work
 
 ---
 
 ## Contact
 
-I am open to software development opportunities, especially in **Flutter**, **Mobile Development**, and **Full-stack Web Development**.
+I am open to roles related to:
 
-- Email: **tongducthanhnam@gmail.com**
-- Portfolio: **https://tongducthanhnam.id.vn**
+- AI Product Engineer
+- Full-stack AI Engineer
+- Agentic Workflow Engineer
+- Frontend/Full-stack Engineer for AI products
+
+Email: **tongducthanhnam@gmail.com**
